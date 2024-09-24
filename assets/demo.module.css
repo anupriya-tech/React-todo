@@ -1,0 +1,11 @@
+.heading
+{
+   color: red;
+   font-size: 12px;
+   font-family: 'Courier New', Courier, monospace;
+  }
+  .para{
+    color: rgb(124, 120, 120);
+    font-size: 5px;
+    font-family: 'Courier New', Courier, monospace;
+  }
